@@ -1,0 +1,59 @@
+
+/* common style sheet for all the pages, do NOT change anything here*/
+
+.logo-img {
+    width: 120px;
+    height: 83.69px;
+    left: 26px;
+    top: 26px;
+    float: left;
+    display: inline;
+}
+
+body {
+    background: #192A51;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    font-family: Perpetua;
+
+}
+
+nav {
+    align-items: center;
+    text-align: left;
+    margin: 0;
+}
+nav a:hover {
+    background-color: #F5E6E8;
+    color: #192A51;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 17px;
+}
+
+nav > ul > li > a {
+    font-family: Perpetua;
+    font-size: 20px;
+    color: #F5E6E8;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+.logo-img-text {
+    font-family: Perpetua;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    color: #F5E6E8;
+}
