@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e63094d-1448-4670-9dd4-1a793fd1e8ec" name="Changes" comment="Test">
-      <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/booking.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/booking.css" afterDir="false" />
-    </list>
+    <list default="true" id="4e63094d-1448-4670-9dd4-1a793fd1e8ec" name="Changes" comment="Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
       <workItem from="1647008235782" duration="1711000" />
       <workItem from="1647023607223" duration="630000" />
       <workItem from="1647114173710" duration="58000" />
-      <workItem from="1647114233131" duration="2105000" />
+      <workItem from="1647114233131" duration="2450000" />
     </task>
     <task id="LOCAL-00001" summary="Some comment here">
       <created>1646814209430</created>
@@ -84,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647115943190</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <created>1647116577343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647116577343</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
