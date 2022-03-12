@@ -1,8 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
 h1, h2, h3, p {
 
     font-family: sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     color: #F5E6E8;
+}
+
+img {
+    width: 100%;
 }
 
 .logo-img {
@@ -65,85 +73,9 @@ nav > ul > li > a {
 }
 
 .text-meet-team {
-    line-height: 120px;
-}
-/* ----------Tina index css-------- */
-#news {
-    height: 500px;
-    width: 450px;
-    overflow: auto;
-    float: right;
-    background-color: #967AA1;
-    margin-top: 30px;
-    margin-right: 10px;
-
+    /*line-height: 120px;*/
 }
 
-#news p {
-    text-align: center;
-}
-
-.post {
-    background: rgb(150,122,161);
-    background: radial-gradient(circle, rgba(150,122,161,1) 0%, rgba(170,161,200,1) 38%, rgba(213,198,224,1) 100%);
-    margin: 5px;
-    border: 2px solid black;
-}
-#news img {
-    height: 370px;
-    width: 420px;
-    opacity: 50%;
-}
-#news h2 {
-
-    font-family: "Comic Sans MS";
-    font-size: 30px;
-    color: #192A51;
-    text-align: center;
-    color: white;
-
-
-}
-
-#news h3 {
-    font-family: "Comic Sans MS";
-    font-size: 20px;
-    text-align: center;
-    color: #192A51;
-
-}
-#quote {
-    position: relative;
-    float: left;
-
-
-    margin-top: 30px;
-    margin-left: 130px;
-
-}
-#quote img {
-    width: 600px;
-    height: 400px;
-
-}
-
-#q{
-    position: absolute;
-    top: 130px;
-    left: 100px;
-    font-family: "Brush Script MT";
-    font-size: 40px;
-    visibility: hidden;
-
-
-
-}
-#quote:hover #q{
-    visibility: visible;
-}
-#quote:hover #hotel {
-    opacity: 30%;
-}
 
 .text-meet-team-second {
     width: 245px;
@@ -157,13 +89,9 @@ nav > ul > li > a {
 }
 
 .text-meet-team-third {
-    font-size: 96px;
-    /*width: 1000px;*/
-    height: 400px;
-    /*left: 117px;*/
-    /*top: 479px;*/
-    /*padding: 20px;*/
+    font-size: 75px;
     text-align: center;
+    margin-bottom: 100px;
 }
 
 .text-meet-team-word {
@@ -187,13 +115,6 @@ nav > ul > li > a {
     margin-block-end: 0;
 }
 
-/* Three columns side by side */
-.column {
-    float: left;
-    width: 480px;
-    margin-bottom: 16px;
-    padding: 0 40px;}
-
 
 /* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 600px) {
@@ -210,7 +131,7 @@ nav > ul > li > a {
 }
 
 /* Some left and right padding inside the container */
-.container {
+.card-container {
     padding: 0 16px;
 }
 
@@ -246,8 +167,36 @@ nav > ul > li > a {
     margin: 0 auto;
 }
 
-.row{
-    width: max-content;
+.container {
+    max-width: 1100px;
     margin: 0 auto;
-    height: 900px;
+    padding: 0 15px;
+}
+
+.row {
+    margin: 0 -15px;
+}
+
+/* Three columns side by side */
+.column {
+    float: left;
+    margin-bottom: 16px;
+    padding: 0 15px;
+}
+
+.column.col-4 {
+    width: calc(100% / 12 * 4);
+}
+
+.column.offset-left-2 {
+    margin-left: calc(100% / 12 * 2);
+}
+.column.offset-right-2 {
+    margin-right: calc(100% / 12 * 2);
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
