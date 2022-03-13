@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e63094d-1448-4670-9dd4-1a793fd1e8ec" name="Changes" comment="Test" />
+    <list default="true" id="4e63094d-1448-4670-9dd4-1a793fd1e8ec" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/booking.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/booking.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +36,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="booking.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP1/Web/booking.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.booking.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +59,7 @@
       <workItem from="1647008235782" duration="1711000" />
       <workItem from="1647023607223" duration="630000" />
       <workItem from="1647114173710" duration="58000" />
-      <workItem from="1647114233131" duration="2450000" />
+      <workItem from="1647114233131" duration="21439000" />
     </task>
     <task id="LOCAL-00001" summary="Some comment here">
       <created>1646814209430</created>
@@ -88,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647116577343</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Test">
+      <created>1647116904954</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647116904954</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Some comment here" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
