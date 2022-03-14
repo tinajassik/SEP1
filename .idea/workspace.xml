@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="test commit">
-      <change beforePath="$PROJECT_DIR$/Web/css/history.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/history.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/histo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/histo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/aboutus.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/aboutus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +34,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP1/Web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP1/Front-End/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -54,6 +59,7 @@
       <workItem from="1646744024223" duration="1259000" />
       <workItem from="1647007668074" duration="1500000" />
       <workItem from="1647011283002" duration="31365000" />
+      <workItem from="1647254855467" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
