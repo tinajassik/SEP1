@@ -21,11 +21,13 @@
     border: 2px solid #192A51;
     color: #192A51;
 }
+
 #news img {
     height: 370px;
     width: 450px;
     opacity: 60%;
 }
+
 #news h2 {
     font-family: sans-serif;
     font-size: 30px;
@@ -41,6 +43,7 @@
     color: #192A51;
 
 }
+
 #quote {
     background-color: #D5C6E0;
     position: relative;
@@ -50,12 +53,13 @@
     padding: 20px;
 
 }
+
 #quote img {
     width: 650px;
     height: 420px;
 }
 
-#q{
+#q {
     position: absolute;
     top: 150px;
     left: 100px;
@@ -64,9 +68,11 @@
     visibility: hidden;
     color: #967AA1;
 }
-#quote:hover #q{
+
+#quote:hover #q {
     visibility: visible;
 }
+
 #quote:hover #hotel {
     opacity: 30%;
 }
