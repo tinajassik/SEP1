@@ -1,6 +1,6 @@
 body {
     backround-color: #192A51;
-    font-family: Perpetua;
+    font-family: sans-serif;
 
 }
 
@@ -75,6 +75,10 @@ table, th, td {
 
 .caption {
     font-size: 50%;
+}
+
+div.center{
+    text-align:center;
 }
 
 
