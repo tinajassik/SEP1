@@ -97,11 +97,5 @@
     margin: 0px;
 }
 
-.footerI {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background: linear-gradient(#192A51, #967AA1, #AAA1C8, #D5C6E0, #F5E6E8);
-    text-align: left;
-}
+
 
