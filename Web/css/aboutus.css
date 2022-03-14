@@ -7,6 +7,7 @@ h1, h2, h3, p {
     font-family: sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     color: #F5E6E8;
+    font-weight: bold;
 }
 
 img {
