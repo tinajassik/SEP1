@@ -7,13 +7,16 @@
     margin: 20px;
 }
 
+#container {
+    text-align: center;
+}
+
 #news p {
     text-align: center;
 }
 
 .post {
     background: #D5C6E0;
-
     margin: 10px;
     border: 2px solid #192A51;
     color: #192A51;
@@ -24,16 +27,16 @@
     opacity: 60%;
 }
 #news h2 {
-    font-family: Perpetua;
-    font-size: 35px;
+    font-family: sans-serif;
+    font-size: 30px;
     color: #192A51;
     text-align: center;
 
 }
 
 #news h3 {
-    font-family: Perpetua;
-    font-size: 30px;
+    font-family: sans-serif;
+    font-size: 25px;
     text-align: center;
     color: #192A51;
 
@@ -93,6 +96,6 @@
     bottom: 0;
     width: 100%;
     background: linear-gradient(#192A51, #967AA1, #AAA1C8, #D5C6E0, #F5E6E8);
-    text-align: left
+    text-align: left;
 }
 
