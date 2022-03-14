@@ -1,28 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/rooms.css" type="text/css" rel="stylesheet" />
     <link rel="stylesheet" href="css/styles.css">
-    <title>Title</title>
+
+
+    <title>Rooms</title>
 </head>
+
 <body>
 
-<!--Navigation bar-->
-<nav>
-    <a><img class="logo-img" src="images/logo.png" alt="logo"></a>
-    <ul>
-        <li class="logo-img-text" > The Overlook Hotel</li>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="booking.html">Booking</a></li>
-        <li><a href="rooms.html">Rooms</a></li>
-        <li><a href="histo.html">History</a></li>
-        <li><a href="aboutus.html">Meet The Team</a></li>
+    <!--Navigation bar-->
+    <nav>
+        <a><img class="logo-img" src="images/logo.png" alt="logo"></a>
+        <ul>
+            <li class="logo-img-text"> The Overlook Hotel</li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="booking.html">Booking</a></li>
+            <li><a href="rooms.html">Rooms</a></li>
+            <li><a href="histo.html">History</a></li>
+            <li><a href="aboutus.html">Meet The Team</a></li>
 
-    </ul>
-</nav>
+        </ul>
+    </nav>
 
-<!---Start your work here-->
+    <div id="Rooms">
+        <h2>Explore our room selection</h2>
+        <a class="bookmark" href="#singleSuite">Single suites</a>
+        <a class="bookmark" href="#doubleSuite">Double suites</a>
+        <a class="bookmark" href="#tripleSuite">Triple suites</a>
+        <a class="bookmark" href="#singleBedrooms">Single bedrooms</a>
+        <a class="bookmark" href="#doubleBedrooms">Double bedrooms</a>
+
+    </div>
+    <div id="singleSuite" class="rooms clearfix">
+        <img class="roomImage" src="images\rooms_1.png" alt="singleSuite">
+        <p>Single suite <b class="price">€259/night</b></p>
+    </div>
+    <div id="doubleSuite" class="rooms clearfix">
+        <img class="roomImage" src="images\rooms_4.png" alt="doubleSuite">
+        <p>Suite with 2 bedrooms <b class="price">€339/night</b></p>
+    </div>
+    </div>
+    <div id="tripleSuite" class="rooms clearfix">
+        <img class="roomImage" src="images\rooms_2.png" alt="tripleSuite">
+        <p>Suite with 3 bedrooms <b class="price">€399/night</b></p>
+    </div>
+    <div id="singleBedrooms" class="rooms clearfix">
+        <h2>Single bedrooms</h2>
+        <img class="roomImage" src="images\master_deluxe_1.jpg" alt="singleBedroom">
+        <p><b class="price">€129/night</b></p>
+    </div>
+    <div id="doubleBedroomsTwin" class="rooms clearfix">
+        <h2>Double bedrooms</h2>
+        <img class="roomImage" src="images\killarney_lake_hotel_4_1.jpg" alt="doubleBedroomsTwin">
+        <p>Double bedrooms with twin beds <br><b class="price">€169/night</b></p>
+    </div>
+    <div id="doubleBedroomsKing" class="rooms clearfix">
+            <img class="roomImage" src="images\bed_mirror_champagne.jpg" alt="doubleBedroomsKing">
+            <p>Double bedrooms with a kingsize beds <br><b class="price">€169/night</b></p>
+        </div>
+    </div>
+
+<div class="footer">
+    <p>©Copyright: Spicybytes </p>
+</div>
 
 </body>
+
 </html>
