@@ -62,6 +62,7 @@ nav > ul > li > a {
     position: fixed;
     bottom: 0;
     width: 100%;
+    font-size: 15px;
     background: linear-gradient(#192A51, #967AA1, #AAA1C8, #D5C6E0, #F5E6E8);
     text-align: left;
     font-family: sans-serif;
