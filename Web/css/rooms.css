@@ -1,0 +1,44 @@
+
+
+
+body {
+    color: #F5E6E8;
+}
+
+#Rooms {
+    color: #F5E6E8;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.bookmark {
+    color: #F5E6E8;
+}
+
+.clearfix {
+    clear: both;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-decoration: underline;
+}
+
+.rooms>img{
+    width: 400px;
+    float: left;
+    margin: 25px 140px;
+  }
+  
+  .rooms>p{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 25px;
+  }
+  
+  .clearfix{
+    clear: both;
+  }
+
