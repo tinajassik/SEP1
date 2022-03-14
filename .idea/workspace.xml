@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="test commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/aboutus.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/aboutus.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/index.html" afterDir="false" />
-
-    </list>
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="font" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +18,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-
-  <component name="ProjectId" id="268nNuGLeg5w1KE6jYbn7zbdH8I" />
-
   <component name="ProjectId" id="266VS1X9cind0R3jjyrLKf0CmvL" />
-
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,13 +28,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="booking.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP1/Web/booking.html" useBuiltInWebServerPort="true">
-
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -53,87 +35,18 @@
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP1/Front-End/index.html" useBuiltInWebServerPort="true">
-
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-
-        <item itemvalue="JavaScript Debug.booking.html" />
-
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
-
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-
-      <changelist id="4e63094d-1448-4670-9dd4-1a793fd1e8ec" name="Changes" comment="" />
-      <created>1646814046755</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1646814046755</updated>
-      <workItem from="1646814048652" duration="446000" />
-      <workItem from="1646845690613" duration="1996000" />
-      <workItem from="1647008235782" duration="1711000" />
-      <workItem from="1647023607223" duration="630000" />
-      <workItem from="1647114173710" duration="58000" />
-      <workItem from="1647114233131" duration="21439000" />
-    </task>
-    <task id="LOCAL-00001" summary="Some comment here">
-      <created>1646814209430</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1646814209431</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Some comment here">
-      <created>1646814413646</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1646814413646</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Some comment here">
-      <created>1647024026164</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1647024026164</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Some comment here">
-      <created>1647024185982</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1647024185982</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Test">
-      <created>1647115943190</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1647115943190</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Test">
-      <created>1647116577343</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1647116577343</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Test">
-      <created>1647116904954</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1647116904954</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
-
       <changelist id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="" />
       <created>1646744021505</created>
       <option name="number" value="Default" />
@@ -158,8 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647255945184</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
-
+    <task id="LOCAL-00003" summary="font">
+      <created>1647265072411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647265072411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,14 +96,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-
-    <MESSAGE value="Some comment here" />
-    <MESSAGE value="Test" />
-    <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
-
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
-
+    <MESSAGE value="font" />
+    <option name="LAST_COMMIT_MESSAGE" value="font" />
   </component>
 </project>
