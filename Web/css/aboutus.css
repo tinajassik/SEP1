@@ -145,12 +145,7 @@ nav > ul > li > a {
 .button:hover {
     background-color: #555;
 }
-
-/*.second-row-meetus {*/
-/*    width: max-content;*/
-/*    margin: 0 auto;*/
-/*}*/
-
+ /* Container size */
 .container {
     max-width: 1100px;
     margin: 0 auto;
@@ -168,6 +163,8 @@ nav > ul > li > a {
     padding: 0 15px;
 }
 
+/* Grid system */
+
 .column.col-4{
     width: calc(100% / 12 * 4);
 }
@@ -179,6 +176,8 @@ nav > ul > li > a {
 .column.offset-right-2 {
     margin-right: calc(100% / 12 * 2);
 }
+
+/* ClearFix */
 
 .clearfix::after {
     content: "";
