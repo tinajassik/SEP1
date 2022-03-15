@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="test commit" />
+
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="test commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/history.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/history.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/histo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/histo.html" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -35,6 +44,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images" />
     </key>
+
+    <property name="vue.rearranger.settings.migration" value="true" />
+
   </component>
   <component name="RunManager">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SEP1/Web/index.html" useBuiltInWebServerPort="true">

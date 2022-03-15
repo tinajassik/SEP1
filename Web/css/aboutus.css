@@ -9,7 +9,11 @@ h1, h2, h3, p {
     color: #F5E6E8;
     font-weight: bold;
 }
+.footer p {
+    text-align: left;
+    font-weight: normal;
 
+}
 img {
     width: 100%;
 }
@@ -97,21 +101,6 @@ nav > ul > li > a {
 .text-meet-team-word {
     color: #967AA1;
 }
-
-
-.footer {
-    width: 100%;
-    background: linear-gradient(#192A51, #967AA1, #AAA1C8, #D5C6E0, #F5E6E8);
-    text-align: left !important;
-}
-
-.footer p {
-    text-align: left;
-    padding: 15px 0 15px 15px;
-    margin-block-start: 0;
-    margin-block-end: 0;
-}
-
 /* Add some shadows to create a card effect */
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
