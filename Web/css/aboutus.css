@@ -9,6 +9,13 @@ h1, h2, h3, p {
     color: #F5E6E8;
     font-weight: bold;
 }
+
+.footer {
+    width: 100%;
+    background: linear-gradient(#192A51, #967AA1, #AAA1C8, #D5C6E0, #F5E6E8);
+    text-align: left !important;
+}
+
 .footer p {
     text-align: left;
     font-weight: normal;
