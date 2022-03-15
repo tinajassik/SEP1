@@ -9,6 +9,14 @@ h1, h2, h3, p {
     color: #F5E6E8;
     font-weight: bold;
 }
+
+.footer12 {
+    width: 100%;
+    height: 80px;
+    background: linear-gradient(#192A51, #967AA1, #AAA1C8, #D5C6E0, #F5E6E8);
+    text-align: left !important;
+}
+
 .footer p {
     text-align: left;
     font-weight: normal;
@@ -88,7 +96,6 @@ nav > ul > li > a {
     top: 409px;
     font-size: 24px;
     font-family: sans-serif;
-    /*text-align: center;*/
 
 }
 
@@ -183,4 +190,9 @@ nav > ul > li > a {
     content: "";
     clear: both;
     display: table;
+}
+
+.p-footer{
+    text-align: left;
+    padding: 20px;
 }
