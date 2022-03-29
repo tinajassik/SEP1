@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Web/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/carousel1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/carousel2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/carousel3.jpg" afterDir="false" />
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="Added bootstrap files">
+      <change afterPath="$PROJECT_DIR$/Web/images/AA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/AAA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/DC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/KJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/KK.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/aboutus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/histo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/histo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/lake-hotels-Imperial-Palace-Lake-Annecy-cr-courtesy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/lake-hotels-Imperial-Palace-Lake-Annecy-cr-courtesy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/rooms.html" afterDir="false" />
     </list>
@@ -86,8 +54,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\krist\WebstormProjects\SEP1\Web\css\bootstrap" />
       <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images" />
+      <recent name="C:\Users\krist\WebstormProjects\SEP1\Web\css\bootstrap" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
