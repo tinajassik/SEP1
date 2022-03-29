@@ -46,5 +46,14 @@ body {
     background-color: #F8F5E0;
 }
 
+.main-container{
+    min-height: 100vh;
+}
+
+.footer{
+    background-color: #F8F5E0;
+    color: #B79F7B;
+}
+
 
 
