@@ -1,13 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="nothing :)">
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Web/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/carousel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/carousel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/carousel3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/bootstrap/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/histo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/histo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/images/lake-hotels-Imperial-Palace-Lake-Annecy-cr-courtesy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/lake-hotels-Imperial-Palace-Lake-Annecy-cr-courtesy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/rooms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -30,13 +80,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/RWD/Session 6/RWD_Exercises_LearningPath_session6" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krist\WebstormProjects\SEP1\Web\css\bootstrap" />
       <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images" />
     </key>
   </component>
@@ -66,12 +116,6 @@
       <workItem from="1647007668074" duration="1500000" />
       <workItem from="1647011283002" duration="31365000" />
       <workItem from="1647254855467" duration="1075000" />
-      <workItem from="1647345138835" duration="612000" />
-      <workItem from="1647347949855" duration="409000" />
-      <workItem from="1647349533842" duration="36000" />
-      <workItem from="1647349648605" duration="2674000" />
-      <workItem from="1647621214866" duration="4000" />
-      <workItem from="1648540745936" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
@@ -80,42 +124,7 @@
       <option name="project" value="LOCAL" />
       <updated>1646744150726</updated>
     </task>
-    <task id="LOCAL-00002" summary="footer for about us">
-      <created>1647335111529</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1647335111529</updated>
-    </task>
-    <task id="LOCAL-00003" summary="footer for about us">
-      <created>1647335126504</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1647335126504</updated>
-    </task>
-    <task id="LOCAL-00004" summary="footer for about us">
-      <created>1647335256494</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1647335256494</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fixed footer for about us page.">
-      <created>1647335699955</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1647335699955</updated>
-    </task>
-    <task id="LOCAL-00006" summary="nothing :)">
-      <created>1647354588016</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1647354588016</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,9 +143,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <MESSAGE value="footer for about us" />
-    <MESSAGE value="fixed footer for about us page." />
-    <MESSAGE value="nothing :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
 </project>

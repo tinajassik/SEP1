@@ -1,0 +1,50 @@
+/* Kristina navbar style */
+nav {
+    background-color: #B79F7B;
+    color: #F8F5E0;
+}
+
+nav li a {
+    color: #F8F5E0;
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+@media  (min-width: 768px) {
+    nav li a {
+        padding-right: 0.5rem;
+        padding-left: 0.5rem
+    }
+}
+
+nav li a:hover, #brand:hover {
+    color: #463F3A;
+}
+
+nav a.current {
+    color: #463F3A;
+}
+
+#brand {
+    color: #F8F5E0;
+    text-decoration: none;
+    font-size: large;
+    display: block;
+    padding: 0.5rem 1rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+#logo {
+    width: 8%;
+    height: 5%;
+}
+
+/* navbar style ends here*/
+
+body {
+    background-color: #F8F5E0;
+}
+
+
+
