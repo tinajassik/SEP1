@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="Updated about us page">
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="nothing :)">
+      <change afterPath="$PROJECT_DIR$/Web/css/rooms.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
-      <change beforePath="$PROJECT_DIR$/Web/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/about-us.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/about-us.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/histo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/histo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/aleksandra-front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/meet-us-images/aleksandra-front.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/andreea-front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/meet-us-images/andreea-front.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/dragos-front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/meet-us-images/dragos-front.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/kevin-front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/meet-us-images/kevin-front.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/tina-front.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Web/images/meet-us-images/tina-front.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/index.html" afterDir="false" />
-
       <change beforePath="$PROJECT_DIR$/Web/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/rooms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +41,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/RWD/Session 6/RWD_Exercises_LearningPath_session6" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images\meet-us-images" />
-      <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images" />
       <recent name="C:\Users\krist\WebstormProjects\SEP1\Web\css\bootstrap" />
+      <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -89,15 +75,9 @@
       <workItem from="1647007668074" duration="1500000" />
       <workItem from="1647011283002" duration="31365000" />
       <workItem from="1647254855467" duration="1075000" />
-
-      <workItem from="1648714999420" duration="759000" />
-      <workItem from="1648717135424" duration="611000" />
-      <workItem from="1648726414915" duration="13838000" />
-
       <workItem from="1648657226084" duration="3228000" />
       <workItem from="1648661549707" duration="258000" />
-      <workItem from="1648899897263" duration="5723000" />
-
+      <workItem from="1648899897263" duration="6108000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
@@ -106,19 +86,19 @@
       <option name="project" value="LOCAL" />
       <updated>1646744150726</updated>
     </task>
-    <task id="LOCAL-00002" summary="Added footer for all pages, added content for meet us page.">
-      <created>1648589808137</created>
+    <task id="LOCAL-00002" summary="nothing :)">
+      <created>1648658313145</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1648589808137</updated>
+      <updated>1648658313145</updated>
     </task>
-    <task id="LOCAL-00003" summary="Updated about us page">
-      <created>1648626997553</created>
+    <task id="LOCAL-00003" summary="nothing :)">
+      <created>1648658370278</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1648626997553</updated>
+      <updated>1648658370278</updated>
     </task>
     <task id="LOCAL-00004" summary="nothing :)">
       <created>1648660422448</created>
@@ -127,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648660422448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nothing :)">
+      <created>1648907960830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648907960830</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,8 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <MESSAGE value="Added footer for all pages, added content for meet us page." />
-    <MESSAGE value="Updated about us page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated about us page" />
+    <MESSAGE value="nothing :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing :)" />
   </component>
 </project>
