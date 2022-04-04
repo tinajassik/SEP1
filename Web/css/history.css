@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+    color: #F8F5E0;
+}
+img {
+    width: 100%;
+    opacity: 100%;
+}
+
+.jumbotron {
+    background:linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%) ,url("../images/n019751_02_2027jul06_world_disneyland-hotel-pink-sky_5-2_tcm789-227485$w_1920$p_1.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 500px;
+}
+
+.class{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px burlywood;
+}

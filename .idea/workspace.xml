@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="Updated about us page">
-      <change afterPath="$PROJECT_DIR$/Web/css/about-us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/DC-Black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/meet-us-images/Aleksandra-noBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/meet-us-images/Andreea-noBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/meet-us-images/Dragos-noBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/meet-us-images/Kevin-noBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/meet-us-images/Kristina-noBG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/images/meet-us-images/meet-us-poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/css/history.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/070-the-peninsula.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/12276_v4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/Edit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/Foto-portada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/Peninsula-hotel-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/Peninsula_1__c__Hopkins_Architects.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/ZHA8426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/andreea1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/andreea2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/andreea3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/images/peninsula.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/aboutus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/AA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/images/AAA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/histo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/histo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +42,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="266VS1X9cind0R3jjyrLKf0CmvL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/RWD/Session 6/RWD_Exercises_LearningPath_session6" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/bootstrap-5.0.2-examples/carousel" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,6 +91,8 @@
       <workItem from="1647007668074" duration="1500000" />
       <workItem from="1647011283002" duration="31365000" />
       <workItem from="1647254855467" duration="1075000" />
+      <workItem from="1648630291825" duration="19941000" />
+      <workItem from="1648793984329" duration="11012000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
@@ -118,6 +126,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test commit" />
     <MESSAGE value="Added footer for all pages, added content for meet us page." />
     <MESSAGE value="Updated about us page" />
