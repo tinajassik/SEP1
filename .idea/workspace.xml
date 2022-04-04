@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="nothing :)">
-      <change afterPath="$PROJECT_DIR$/Web/css/rooms.css" afterDir="false" />
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="not nothing&#10;something in the Rooms page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/css/rooms.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web/css/rooms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/images/rooms/Best-luxury-hotels-in-Paris-Four-Seasons-Hotel-George-V-Paris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/images/rooms/DSC_3020-scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/images/rooms/image.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/rooms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +81,7 @@
       <workItem from="1648657226084" duration="3228000" />
       <workItem from="1648661549707" duration="258000" />
       <workItem from="1648899897263" duration="6108000" />
+      <workItem from="1649073192673" duration="3611000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
@@ -114,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648907960830</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="not nothing&#10;something in the Rooms page">
+      <created>1648994651995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648994651995</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="nothing :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing :)" />
+    <MESSAGE value="not nothing&#10;something in the Rooms page" />
+    <option name="LAST_COMMIT_MESSAGE" value="not nothing&#10;something in the Rooms page" />
   </component>
 </project>
