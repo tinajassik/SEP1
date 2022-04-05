@@ -1,6 +1,6 @@
 /* Kristina navbar style */
 nav {
-    background-color: #B79F7B;
+    background-color: #AA8F66;
     color: #F8F5E0;
 }
 
@@ -57,5 +57,13 @@ body {
     color: #B79F7B;
 }
 
+.footer-end{
+    background-color: #B79F7B;
+    color: #F8F5E0;
+}
+
+body{
+    font-family: 'Playfair Display', serif;font-size: 22px;
+}
 
 
