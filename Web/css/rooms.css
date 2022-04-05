@@ -1,4 +1,13 @@
  h1, .description{
     color: #AA8F66;
-
 }
+ .Suites img:hover, .Rooms img:hover {
+     opacity: 0.5;
+ }
+
+ .carousel-inner {
+     background-color: black;
+
+ }
+
+

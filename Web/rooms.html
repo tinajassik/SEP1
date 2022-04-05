@@ -4,9 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/rooms.css" type="text/css" rel="stylesheet" />
+    <link href="css/rooms.css" type="text/css" rel="stylesheet"/>
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" type="text/css">
-    <link href="css/styles.css" rel="stylesheet"  type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
     <script src="js/bootstrap.bundle.min.js"></script>
     <title>Rooms</title>
 </head>
@@ -19,7 +20,8 @@
     <div class="container-fluid">
         <img id="logo" src="images/logo.png" alt="logo">
         <a id="brand" href="index.html">The Overlook Hotel</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
+                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarToggler">
@@ -28,7 +30,7 @@
                     <a class="current" href="rooms.html">Rooms</a>
                 </li>
                 <li class="nav-item">
-                    <a  href="booking.html">Booking</a>
+                    <a href="booking.html">Booking</a>
                 </li>
                 <li class="nav-item">
                     <a href="histo.html">History</a>
@@ -42,70 +44,76 @@
 </nav>
 
 
-
 <!-- Aleksandra-->
 
-<h1 class="text-center display-6">Accommodations</h1>
-
+<h1 class="text-center display-6 p-3">Accommodations</h1>
 
 <div class="Suites container">
+
+    <hr>
+
     <div class="row">
-            <div class="col-sm-6 order-sm-1">
-                <h1 class="display-6 lead text-center" >Suites</h1>
-                <p class="description lead text-center">Our suites were designed with care in order to find balance between comfort and refinement </p>
-            </div>
-        <div class="col-sm-6 order-sm-0">
-            <div id="suiteCarousel" class="carousel slide" data-bs-ride="carousel">
-
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#suiteCarousel" data-bs-slide-to="0" class="active"></button>
-                    <button type="button" data-bs-target="#suiteCarousel" data-bs-slide-to="1"></button>
-                    <button type="button" data-bs-target="#suiteCarousel" data-bs-slide-to="2"></button>
+                <div class="col-sm-6 order-sm-1 align-self-center">
+                    <h1 class="display-6 lead text-center">Suites</h1>
+                    <p class="description lead text-center">Our suites were designed with care in order to find balance between
+                        comfort and refinement </p>
                 </div>
+                <div class="col-sm-6 order-sm-0 ">
+                    <div id="suiteCarousel" class="carousel slide" data-bs-ride="carousel">
 
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <div class="bg-image">
-                            <img src="images\rooms\singleSuite.jpg" alt="singleSuite" class="d-block w-100">
-                            <div class="carousel-caption">
-                                <div class="mask" style="background-color: rgba(57, 192, 237, 0.6)"></div>
-                                <h3>Single bedroom suite</h3>
-                                <p>€259</p>
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#suiteCarousel" data-bs-slide-to="0" class="active"></button>
+                            <button type="button" data-bs-target="#suiteCarousel" data-bs-slide-to="1"></button>
+                            <button type="button" data-bs-target="#suiteCarousel" data-bs-slide-to="2"></button>
+                        </div>
+
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                    <img src="images/rooms/singleSuite.jpg" alt="singleSuite" class="d-block w-100">
+                                    <div class="carousel-caption">
+                                        <div class="mask" style="background-color: rgba(57, 192, 237, 0.6)"></div>
+                                        <h3>Single bedroom suite</h3>
+                                        <p>€259</p>
+                                    </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img src="images/rooms/doubleSuite.jpg" alt="doubleSuite" class="d-block w-100">
+                                <div class="carousel-caption">
+                                    <h3>Two bedroom suite</h3>
+                                    <p>€339</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img src="images/rooms/tripleSuite1.jpg" alt="tripleSuite" class="d-block w-100">
+                                <div class="carousel-caption">
+                                    <h3>Three bedroom suite</h3>
+                                    <p>€399</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="images\rooms\doubleSuite.jpg" alt="doubleSuite" class="d-block w-100">
-                        <div class="carousel-caption">
-                            <h3>Two bedroom suite</h3>
-                            <p>€339</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="images\rooms\tripleSuite1.jpg" alt="tripleSuite" class="d-block w-100">
-                        <div class="carousel-caption">
-                            <h3>Three bedroom suite</h3>
-                            <p>€399</p>
-                        </div>
+
+                        <button class="carousel-control-prev" type="button" data-bs-target="#suiteCarousel"
+                                data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon"></span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#suiteCarousel"
+                                data-bs-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                        </button>
                     </div>
                 </div>
-
-                <button class="carousel-control-prev" type="button" data-bs-target="#suiteCarousel" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon"></span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#suiteCarousel" data-bs-slide="next">
-                    <span class="carousel-control-next-icon"></span>
-                </button>
-            </div>
         </div>
-    </div>
+
+    <hr>
+
 </div>
 
 <div class="Rooms container">
     <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 align-self-center">
             <h1 class="display-6 text-center">Rooms</h1>
-            <p class="description lead text-center">These classic rooms provide spacious, comfortable layout that is resplendent with luxury and elegance</p>
+            <p class="description lead text-center">These classic rooms provide spacious, comfortable layout that is
+                resplendent with luxury and elegance</p>
         </div>
         <div class="col-sm-6">
             <div id="roomCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -117,14 +125,14 @@
 
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="images\rooms\doubleRoom1.jpg" alt="singleSuite" class="d-block w-100">
+                        <img src="images/rooms/doubleRoom1.jpg" alt="singleSuite" class="d-block w-100">
                         <div class="carousel-caption">
                             <h3>Bedroom with double bed</h3>
                             <p>€169</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="images\rooms\doubleRoom2.jpg" alt="doubleSuite" class="d-block w-100">
+                        <img src="images/rooms/doubleRoom2.jpg" alt="doubleSuite" class="d-block w-100">
                         <div class="carousel-caption">
                             <h3>Bedroom with two beds</h3>
                             <p>€169</p>
@@ -141,15 +149,17 @@
             </div>
         </div>
     </div>
-</div>
-<p class="description lead text-center">Extra bed is available for every type of room</p>
 
+    <hr>
+
+</div>
+
+<p class="description lead text-center">Extra bed is available for every type of room</p>
 
 
 <!-- Footer - Dragos -->
 <footer class="text-center text-lg-start bg-light text-muted">
 
-    </section>
 
     <section class="footer">
         <div class="container text-center text-md-start mt-5">
@@ -200,16 +210,16 @@
                         Social media
                     </h6>
                     <p>
-                        <a href="#!" class="text-reset">Facebook</a>
+                        <a href="" class="text-reset">Facebook</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Instagram</a>
+                        <a href="" class="text-reset">Instagram</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Tripadvisor</a>
+                        <a href="" class="text-reset">Tripadvisor</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Booking</a>
+                        <a href="" class="text-reset">Booking</a>
                     </p>
                 </div>
                 <!-- Grid columns -->
@@ -220,13 +230,13 @@
                     <h6 class="text-uppercase fw-bold mb-4">
                         Contact
                     </h6>
-                    <p><i class="fas fa-home me-3"></i> København, NV 2400 , DK</p>
+                    <p><i class="me-3"></i> København, NV 2400 , DK</p>
                     <p>
                         <i class="fas fa-envelope me-3"></i>
                         <a href="mailto:OverLookHotel@mail.com">OverLookHotel@mail.com</a>
                     </p>
-                    <p><i class="fas fa-phone me-3"></i> + 45 55 55 55 55</p>
-                    <p><i class="fas fa-print me-3"></i> + 45 33 33 33 33</p>
+                    <p><i class="me-3"></i> + 45 55 55 55 55</p>
+                    <p><i class="me-3"></i> + 45 33 33 33 33</p>
                 </div>
                 <!-- Grid column -->
             </div>
