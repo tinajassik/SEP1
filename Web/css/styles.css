@@ -1,14 +1,15 @@
 /* Kristina navbar style */
 nav {
-    background-color: #B79F7B;
+    background-color: #AA8F66;
     color: #F8F5E0;
 }
 
 nav li a {
     color: #F8F5E0;
     text-decoration: none;
+    /*font-weight: bold;*/
     display: block;
-    padding: 0.5rem 1rem;
+    padding-bottom: 0.8rem; padding-top: 0.8rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
@@ -30,6 +31,7 @@ nav a.current {
 #brand {
     color: #F8F5E0;
     text-decoration: none;
+    /*font-weight: bold;*/
     font-size: large;
     display: block;
     padding: 0.5rem 1rem;
@@ -46,14 +48,23 @@ body {
     background-color: #F8F5E0;
 }
 
-.main-container{
-    min-height: 100vh;
-}
+/*.main-container{*/
+/*    min-height: 100vh;*/
+/*}*/
 
 .footer{
     background-color: #F8F5E0;
     color: #B79F7B;
 }
 
+.footer-end{
+    background-color: #B79F7B;
+    color: #F8F5E0;
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+    /*font-size: 22px;*/
+}
 
 
