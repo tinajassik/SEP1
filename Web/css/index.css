@@ -3,12 +3,18 @@ img {
 }
 
 .reviews {
-    height: 30%;
+    height: 250px;
+}
+
+@media (max-width: 500px) {
+    .reviews {
+        height: 100px;
+    }
 }
 
 .RATINGS {
     text-align: center;
-    ;
+    font-size: 0.8em;
 }
 
 .ratings i {
