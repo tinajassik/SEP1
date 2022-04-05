@@ -1,3 +1,29 @@
 img {
-    opacity: 80%;
+    opacity: 70%;
 }
+
+.reviews {
+    height: 30%;
+}
+
+.RATINGS {
+    text-align: center;
+}
+
+.ratings i {
+    color: #463F3A;
+    font-size: 1.8em;
+}
+.ratings {
+    margin-right: 10px;
+
+
+}
+
+.special {
+    color: #B79F7B;
+
+}
+
+
+
