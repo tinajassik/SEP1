@@ -1,10 +1,25 @@
 body {
-    background-color: burlywood;
-    color: #F8F5E0;
+    font-family: Segoe Script;
+    background-color: #AA8F66;
 }
 img {
     width: 100%;
     opacity: 100%;
+}
+
+.class2 {
+    font-family: Garamond;
+    text-align: center;
+    color: #463F3A;
+}
+
+.class3 {
+    font-family: Garamond;
+}
+
+video {
+    width: 100%;
+    height: auto;
 }
 
 .jumbotron {
@@ -16,7 +31,7 @@ img {
     height: 500px;
 }
 
-.class{
+.class1{
     color: white;
     text-align: center;
     text-shadow: 2px 2px 5px burlywood;
