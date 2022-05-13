@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<root>
+<bookings>
+<booking>
+<room>double</room>
+<arrival>3/4/2022</arrival>
+<departure>6/4/2022</departure>
+</booking>
+<booking>
+<room>double</room>
+<arrival>3/4/2022</arrival>
+<departure>6/4/2022</departure>
+</booking>
+</bookings>
+</root>
