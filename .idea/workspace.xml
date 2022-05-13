@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="not nothing pt.2&#10;something in the Rooms page&#10;still looks like shit&#10;almost done tho">
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="Part XML file">
+      <change afterPath="$PROJECT_DIR$/Web/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web/xml/bookingList.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/rooms.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -27,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="266VS1X9cind0R3jjyrLKf0CmvL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,11 +45,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/RWD/Session 6/RWD_Exercises_LearningPath_session6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web/xml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ola\WebstormProjects\SEP1\Web\xml" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images\meet-us-images" />
       <recent name="C:\Users\drago\WebstormProjects\SEP1\Web\images" />
@@ -77,7 +88,9 @@
       <workItem from="1647011283002" duration="31365000" />
       <workItem from="1647254855467" duration="1075000" />
       <workItem from="1650963366507" duration="629000" />
-      <workItem from="1652348332719" duration="1083000" />
+      <workItem from="1652348332719" duration="2582000" />
+      <workItem from="1652371572764" duration="105000" />
+      <workItem from="1652446924134" duration="2112000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
@@ -100,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649158911411</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Part XML file">
+      <created>1652352770281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652352770281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +142,7 @@
     <MESSAGE value="Added footer for all pages, added content for meet us page." />
     <MESSAGE value="Updated about us page" />
     <MESSAGE value="not nothing pt.2&#10;something in the Rooms page&#10;still looks like shit&#10;almost done tho" />
-    <option name="LAST_COMMIT_MESSAGE" value="not nothing pt.2&#10;something in the Rooms page&#10;still looks like shit&#10;almost done tho" />
+    <MESSAGE value="Part XML file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part XML file" />
   </component>
 </project>
