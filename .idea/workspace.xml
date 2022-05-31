@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="Part XML file">
-      <change afterPath="$PROJECT_DIR$/Web/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/xml/bookingList.xml" afterDir="false" />
+    <list default="true" id="f987998d-d03e-4348-9c09-dfc663695558" name="Changes" comment="Single room added to the rooms page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/booking.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/rooms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Web/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/xml/bookingList.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/xml/bookingList.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="266VS1X9cind0R3jjyrLKf0CmvL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -90,7 +88,12 @@
       <workItem from="1650963366507" duration="629000" />
       <workItem from="1652348332719" duration="2582000" />
       <workItem from="1652371572764" duration="105000" />
-      <workItem from="1652446924134" duration="2112000" />
+      <workItem from="1652446924134" duration="2457000" />
+      <workItem from="1652697964200" duration="1984000" />
+      <workItem from="1652878774285" duration="565000" />
+      <workItem from="1653403767205" duration="604000" />
+      <workItem from="1653738478309" duration="12030000" />
+      <workItem from="1653985061288" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1646744150726</created>
@@ -120,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652352770281</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Single room added to the rooms page">
+      <created>1652449215195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652449215195</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +153,7 @@
     <MESSAGE value="Updated about us page" />
     <MESSAGE value="not nothing pt.2&#10;something in the Rooms page&#10;still looks like shit&#10;almost done tho" />
     <MESSAGE value="Part XML file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part XML file" />
+    <MESSAGE value="Single room added to the rooms page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single room added to the rooms page" />
   </component>
 </project>

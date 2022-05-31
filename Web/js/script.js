@@ -9,3 +9,7 @@ $.get("xml/bookingList.xml", function(xml, status){
     txt += "</table>";
     $("#bookings").html(txt);
 });
+
+
+
+
