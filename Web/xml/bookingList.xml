@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<bookings>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-20</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Single Room</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-5-25</arrival>
+<departure>2022-6-3</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-4</arrival>
+<departure>2022-6-10</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-4</arrival>
+<departure>2022-6-10</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-4</arrival>
+<departure>2022-6-10</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-4</arrival>
+<departure>2022-6-10</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-4</arrival>
+<departure>2022-6-10</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-11</arrival>
+<departure>2022-6-15</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-11</arrival>
+<departure>2022-6-15</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-11</arrival>
+<departure>2022-6-15</departure>
+</booking>
+<booking>
+<room> Double Room - King Size Bed</room>
+<arrival>2022-6-11</arrival>
+<departure>2022-6-15</departure>
+</booking>
+<booking>
+<room>Double Room - King Size Bed</room>
+<arrival>2022-5-2</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room>Double Room - King Size Bed</room>
+<arrival>2022-5-31</arrival>
+<departure>2022-5-25</departure>
+</booking>
+<booking>
+<room>Single Room</room>
+<arrival>2022-4-25</arrival>
+<departure>2022-5-18</departure>
+</booking>
+<booking>
+<room>Single Room</room>
+<arrival>2022-5-31</arrival>
+<departure>2022-5-18</departure>
+</booking>
+<booking>
+<room>Double Room - King Size Bed</room>
+<arrival>2022-5-11</arrival>
+<departure>2022-5-31</departure>
+</booking>
+<booking>
+<room>Double Room - King Size Bed</room>
+<arrival>2022-5-31</arrival>
+<departure>2022-5-31</departure>
+</booking>
+</bookings>
