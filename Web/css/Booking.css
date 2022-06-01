@@ -16,22 +16,16 @@ text {
     font-family: sans-serif;
 }
 
-#mainRow {
+.mainRow {
+    display: flex;
     pointer-events: none;
     background-color: #AA8F66;
     color: #ffffff;
     border-style: hidden;
     height: 50px;
-    vertical-align: center;
+    justify-content: center;
+    align-items: center;
     font-family: sans-serif;
-}
-
-tr:hover {
-    background-color: #CBB99A
-}
-
-th {
-    width: 100px
 }
 
 .options {
@@ -70,44 +64,11 @@ span {
     color: #AA8F66
 }
 
-td.table2size {
-    width: 0%;
-}
-
-@media (min-width: 516px) {
-    td.bed1 {
-        padding-right: 24px;
-    }
-}
-
-.table {
-    width: 92%;
-    margin-left: 4%;
-}
-
 .available {
     background-color: #63DC50;
     width: 115px;
     border-radius: 10px;
     color: #ffffff;
-    display: inline-block;
-    justify-content: center;
 }
 
-.booked {
-    background-color: #FFE500;
-    width: 115px;
-    border-radius: 10px;
-    color: #ffffff;
-    display: inline-block;
-    justify-content: center;
-}
 
-.occupied {
-    background-color: #FF3F3F;
-    width: 115px;
-    border-radius: 10px;
-    color: #ffffff;
-    display: inline-block;
-    justify-content: center;
-}
